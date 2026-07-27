@@ -32,7 +32,8 @@ These chance observations constitute the first known cases of _A. oratrix_ likel
 
 **ACKNOWLEDGEMENTS**
 
-We thank Juliana Soto Patiño and Rodrigo Monjaraz Ruedas for assistance with the Spanish translation of this article. 
+We thank Juliana Soto Patiño and Rodrigo Monjaraz Ruedas for assistance with the Spanish translation of this article. This work was supported by NSF (DBI 2507989 to JMM). 
+
 
 **REFERENCES**
 
